@@ -10,4 +10,8 @@ Aspired to employ statistical models and data insights to create a more sustaina
 <br/>
 
 #### Resume:
-![](resume.jpg)
+<object data="resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="resume.pdf>
+        <p>This browser does not support PDFs. Go to the github link at https://github.com/brianfeng717/personal_website/blob/master/resume.pdf or download the PDF to view it: <a href="resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
