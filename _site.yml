@@ -1,9 +1,16 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Brian T Feng"
   left:
-    - text: "Home"
+    - text: "About me"
       href: index.html
-    - text: "About Me"
+    - text: "Experiences"
       href: about.html
+    - text: "Interesing Graphs from Projects"
+      href: projects.html
+    
+output:
+  html_document:
+    theme: cosmo
+    css: style.css

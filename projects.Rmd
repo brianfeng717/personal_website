@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+Here are some captivating graphs I have made for my recent COVID-19 Research initiative with the National Chiao Tung University Team: 
+
+## [Data Visualization in R](curve.html)
+
+- An interactive graph displaying the COVID-19 State Cases/State Population curves in the United States. 
+- Provides insights on how different political and governmental policies affect the COVID-19 tresnds in the US
+
+## [Interactive US Map in R](senate_map_graph.html)
+
+- Interactive US Map to look at the Cases/Death percentages of each State
+- Provides insights on the correlation between COVID-19 statistics and State political affiliation 

@@ -1,6 +1,13 @@
 ---
-title: "Personal Website"
+title: "Welcome to Brian Feng's Website"
 ---
 
-Hello, World! 
-It's Me Brian!
+<span style=font-size:16px;">My name is **Brian Feng**, a Junior at <span style="color:orange">UT Austin</span>, and I am majoring in Computational Biology while pursuing certificates in Computer Science, Computational Sciences & Engineering, and Environmental Sustainability. I am an aspiring Data Scientist that loves unearthing insights through data and statistical models.</span>  
+<br/>
+
+<span style=font-size:16px;">I am currently a Data Science intern at The National Chiao Tung University and a Statistics Research Assistant at the National Tsing Hua University, two of the top 3 universities in Taiwan, allowing me to work on individual projects while acquiring substantial experiences with programming languages(Python and R), predicive statistical models, and machine learning algorithims. Fusing my passions for Data Analytics and Statistics/Math, I hope to work on more Machine Learning projects in the near future!</span>   
+  
+<br/>
+<span style=font-size:16px;">*Contact me @brianfeng717@utexas.edu*</span>  
+<br/>
+![](prof_pic.jpg)
